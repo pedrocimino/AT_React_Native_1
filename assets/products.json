@@ -1,0 +1,318 @@
+{
+  "products": {
+    "-Az6Xp1wQmZ9sVy4EkNl": {
+      "comments": [
+        {
+          "comment": "Ótimo desempenho e design elegante!",
+          "date": "2024-03-18",
+          "rating": 5,
+          "user": "user123"
+        },
+        {
+          "comment": "Bateria poderia durar mais, mas no geral estou satisfeito.",
+          "date": "2024-03-17",
+          "rating": 4,
+          "user": "techlover"
+        }
+      ],
+      "description": "Notebook de alto desempenho para uso profissional e entretenimento.",
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "name": "Notebook Dell Inspiron 15",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "A bateria tem autonomia média de 6 horas em uso moderado.",
+          "date": "2024-03-16",
+          "question": "Qual a duração da bateria em uso contínuo?",
+          "user": "interestedbuyer"
+        }
+      ],
+      "technicalSpecifications": {
+        "display": "15.6 polegadas Full HD",
+        "graphics": "NVIDIA GeForce GTX 1650Ti 4GB",
+        "memory": "16GB DDR4",
+        "processor": "Intel Core i7 10ª geração",
+        "storage": "512GB SSD"
+      },
+      "vendorData": {
+        "email": "contato@lojatech.com",
+        "name": "Loja Tech",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4
+      }
+    },
+    "-Bl8Yq2xSpVz5rQo7DmT": {
+      "comments": [
+        {
+          "comment": "Imagens incríveis e resposta rápida. Recomendo!",
+          "date": "2024-03-19",
+          "rating": 5,
+          "user": "gamemaster"
+        }
+      ],
+      "description": "Monitor de alta performance para gamers profissionais.",
+      "image": "https://images.pexels.com/photos/400678/pexels-photo-400678.jpeg",
+      "name": "Monitor Gamer ASUS ROG Strix",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "Sim, é totalmente compatível com G-Sync para uma experiência de jogo suave.",
+          "date": "2024-03-18",
+          "question": "Esse monitor é compatível com G-Sync?",
+          "user": "techenthusiast"
+        }
+      ],
+      "technicalSpecifications": {
+        "panelType": "IPS",
+        "refreshRate": "165Hz",
+        "resolution": "2560x1440 QHD",
+        "responseTime": "1ms",
+        "screenSize": "27 polegadas"
+      },
+      "vendorData": {
+        "email": "vendas@megahardware.com",
+        "name": "Mega Hardware",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4.5
+      }
+    },
+    "-Cm9Kp3zRqVx1sTl9FnY": {
+      "comments": [
+        {
+          "comment": "Excelente precisão e resposta rápida. O melhor mouse que já usei!",
+          "date": "2024-03-17",
+          "rating": 5,
+          "user": "proplayer"
+        }
+      ],
+      "description": "Mouse sem fio de alto desempenho para jogos competitivos.",
+      "image": "https://images.pexels.com/photos/392018/pexels-photo-392018.jpeg",
+      "name": "Mouse Logitech G Pro Wireless",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "Sim, é muito confortável e ergonômico, mesmo para longas sessões de jogo.",
+          "date": "2024-03-16",
+          "question": "Esse mouse é confortável para uso prolongado?",
+          "user": "mouseenthusiast"
+        }
+      ],
+      "technicalSpecifications": {
+        "buttons": "6 programáveis",
+        "dpi": "100 - 25,600",
+        "sensor": "Hero 25K",
+        "weight": "80g"
+      },
+      "vendorData": {
+        "email": "contato@gamerstore.com",
+        "name": "Gamer Store",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4.8
+      }
+    },
+    "-Dt5Rp4qOxZ8lNmW2SqE": {
+      "comments": [
+        {
+          "comment": "Digitação confortável e as teclas são muito responsivas. Recomendo!",
+          "date": "2024-03-18",
+          "rating": 5,
+          "user": "keyboardfan"
+        }
+      ],
+      "description": "Teclado mecânico premium com iluminação RGB personalizável.",
+      "image": "https://images.pexels.com/photos/1714205/pexels-photo-1714205.jpeg",
+      "name": "Teclado Mecânico Corsair K95 RGB Platinum",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "Sim, é resistente a respingos, mas não é à prova d'água.",
+          "date": "2024-03-17",
+          "question": "Esse teclado é resistente à água?",
+          "user": "typingenthusiast"
+        }
+      ],
+      "technicalSpecifications": {
+        "macroKeys": "6 programáveis",
+        "pollingRate": "1,000Hz",
+        "switches": "Cherry MX Speed",
+        "wristRest": "Sim, destacável"
+      },
+      "vendorData": {
+        "email": "info@techparadise.com",
+        "name": "Tech Paradise",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4.7
+      }
+    },
+    "-Fb0Zk7sPwY3xQmV6JpN": {
+      "comments": [
+        {
+          "comment": "Qualidade sonora excelente e muito confortável de usar por horas.",
+          "date": "2024-03-19",
+          "rating": 5,
+          "user": "audiophile"
+        }
+      ],
+      "description": "Headset com som surround 7.1 para uma experiência imersiva de áudio.",
+      "image": "https://images.pexels.com/photos/205926/pexels-photo-205926.jpeg",
+      "name": "Headset HyperX Cloud II",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "Sim, é compatível com a maioria dos consoles via conexão P2.",
+          "date": "2024-03-18",
+          "question": "Esse headset é compatível com consoles de videogame?",
+          "user": "gamer123"
+        }
+      ],
+      "technicalSpecifications": {
+        "connectivity": "USB e P2",
+        "frequencyResponse": "15Hz-25kHz",
+        "impedance": "60 ohms",
+        "transducerType": "Dinâmico de 53mm"
+      },
+      "vendorData": {
+        "email": "atendimento@audioshop.com",
+        "name": "Audio Shop",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4.5
+      }
+    },
+    "-Gr2Lx9pQaZ6sVtK8HmY": {
+      "comments": [
+        {
+          "comment": "Desempenho impressionante em jogos e renderização. Vale cada centavo!",
+          "date": "2024-03-17",
+          "rating": 5,
+          "user": "pcbuilder"
+        }
+      ],
+      "description": "Placa de vídeo de última geração para gráficos de alta performance.",
+      "image": "https://images.pexels.com/photos/6704939/pexels-photo-6704939.jpeg",
+      "name": "Placa de Vídeo NVIDIA GeForce RTX 3080",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "Possui 1 porta HDMI 2.1 e 3 portas DisplayPort 1.4a.",
+          "date": "2024-03-16",
+          "question": "Quantas portas HDMI essa placa tem?",
+          "user": "techsavvy"
+        }
+      ],
+      "technicalSpecifications": {
+        "gpu": "NVIDIA Ampere",
+        "memoryInterface": "320-bit",
+        "powerConnectors": "2x 8-pin",
+        "vram": "10GB GDDR6X"
+      },
+      "vendorData": {
+        "email": "suporte@techuniverse.com",
+        "name": "Tech Universe",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4.9
+      }
+    },
+    "-Jh7Tc5zPqVx9AfG3LnR": {
+      "comments": [
+        {
+          "comment": "Sinal forte e estável em toda a casa. Ótimo desempenho!",
+          "date": "2024-03-18",
+          "rating": 5,
+          "user": "homenetworker"
+        }
+      ],
+      "description": "Roteador Wi-Fi 6 de alta velocidade para residências e escritórios.",
+      "image": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg",
+      "name": "Roteador TP-Link Archer AX6000",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "Este roteador suporta até 250 dispositivos conectados simultaneamente.",
+          "date": "2024-03-17",
+          "question": "Quantos dispositivos podem ser conectados simultaneamente?",
+          "user": "networkenthusiast"
+        }
+      ],
+      "technicalSpecifications": {
+        "antennas": "8 externas",
+        "ports": "8 LAN Gigabit, 2 WAN Gigabit",
+        "speed": "Até 6Gbps",
+        "wifiStandard": "Wi-Fi 6 (802.11ax)"
+      },
+      "vendorData": {
+        "email": "netconnect@provedor.com",
+        "name": "NetConnect",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4.6
+      }
+    },
+    "-Kp4w1n8gVz2rUoD9BqE": {
+      "comments": [
+        {
+          "comment": "Meu PC ficou muito mais rápido após instalar esse SSD. Excelente custo-benefício!",
+          "date": "2024-03-19",
+          "rating": 5,
+          "user": "pcuser"
+        }
+      ],
+      "description": "SSD NVMe de alta velocidade para melhorar o desempenho do seu PC.",
+      "image": "https://images.pexels.com/photos/11553188/pexels-photo-11553188.jpeg",
+      "name": "SSD Kingston A2000 1TB",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "Sim, é compatível com slots M.2 PCIe 3.0 x4.",
+          "date": "2024-03-18",
+          "question": "Esse SSD é compatível com slots M.2 PCIe?",
+          "user": "techsavvy"
+        }
+      ],
+      "technicalSpecifications": {
+        "capacity": "1TB",
+        "interface": "PCIe NVMe Gen3x4",
+        "readSpeed": "Até 2,200MB/s",
+        "writeSpeed": "Até 2,000MB/s"
+      },
+      "vendorData": {
+        "email": "vendas@storagetech.com",
+        "name": "Storage Tech",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4.7
+      }
+    },
+    "-Lz9o2q6Rpnv7YsWUDjf": {
+      "comments": [
+        {
+          "comment": "Qualidade de imagem excelente e fácil de configurar. Recomendo para streaming!",
+          "date": "2024-03-19",
+          "rating": 5,
+          "user": "streamer123"
+        }
+      ],
+      "description": "Câmera web Full HD para videochamadas e streaming.",
+      "image": "https://images.pexels.com/photos/7172701/pexels-photo-7172701.jpeg",
+      "name": "Câmera Logitech C920 HD Pro",
+      "price": 100,
+      "questions": [
+        {
+          "answer": "Sim, é compatível com Mac OS X 10.6 ou superior.",
+          "date": "2024-03-18",
+          "question": "Essa câmera é compatível com Mac OS?",
+          "user": "videocalluser"
+        }
+      ],
+      "technicalSpecifications": {
+        "connection": "USB 2.0",
+        "frameRate": "30fps",
+        "microphone": "Estéreo integrado",
+        "resolution": "1080p"
+      },
+      "vendorData": {
+        "email": "contato@videostore.com",
+        "name": "Video Store",
+        "phone": "(XX) XXXX-XXXX",
+        "rating": 4.4
+      }
+    }
+  }
+}
